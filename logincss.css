@@ -1,0 +1,6 @@
+﻿body {
+    background-image: url('image/beijing.jpg'); /*图片路径 */
+    background-size: cover; /*//设置背景图像是否固定,不随着页面的其余部分滚动。 */
+    background-attachment: fixed; /*//设置背景图片不平铺 */
+    background-repeat: no-repeat; /*//设置背景图片不重复 */
+}
